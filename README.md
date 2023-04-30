@@ -5,8 +5,6 @@
 ![Harrison GitHub stats](https://github-readme-stats.vercel.app/api?username=harrisongoncalves&show_icons=true&theme=tokyonight)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harrisongoncalves/)
-[![Linkedin](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/H3yF3n1x//)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
 ## Tecnologias e Ferramentas:
